@@ -1,4 +1,4 @@
-# 👋 Salut, je suis **Alpha Amadou DIALLO**  
+# 👋 Salut, je suis **Alpha Amadou DIALLO **  
 
 🚀 **Ingénieur logiciel Java & React / React Native**  
 💻 **Passionné par la création d’applications robustes, scalables et performantes.**  
@@ -17,10 +17,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=githubactions)
 
-## ⚡ Stats de contributions
-
-🐍 Snake (contributions animées)  
-![Snake animation](https://github.com/alpha947/alpha947/blob/output/snake.svg)  
+## ⚡ Stats de contributions 
 
 📈 Activity Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alpha947&theme=tokyo-night)  
@@ -52,11 +49,7 @@
 🔗 [🌐 Mon site web](https://dg.xstore-gn.io)  
 📄 [📑 Mon CV (PDF)](LIEN_VERS_CV)  
 
----
-
-## ⚡ Git & Github
-🐍 **Snake animation (commits dynamiques)**  
-![Snake animation](https://github.com/alpha947/alpha947/blob/output/github-contribution-grid-snake.svg)
+--- 
 
 🎆 **Petit resume Git**  
 ![Profile Views](https://komarev.com/ghpvc/?username=alpha947&color=blueviolet&style=for-the-badge)  
