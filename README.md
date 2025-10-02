@@ -2,7 +2,7 @@
 
 🚀 **Ingénieur logiciel Java & React / ReactNative**  
 💻 Passionné par la création d’applications robustes, scalables et performantes.  
-🧠 Formation récente en **Spring AI & Intelligence Artificielle**.  
+🧠 Developpeur d'application Inovante et Intelligente en **Spring AI & LLMs**.  
 ---
 ## 🔧 Stack principale
 ![Java](https://img.shields.io/badge/Java-17%2F21-orange?logo=openjdk)
