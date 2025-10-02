@@ -1,10 +1,9 @@
 # 👋 Salut, je suis **Alpha Amadou DIALLO 
 
-🚀 **Ingénieur logiciel Java & React / React Native**  
-💻 **Passionné par la création d’applications robustes, scalables et performantes.**  
-🧠 **Developpeur d'application Intelligente et performentes **Spring AI & Automations**.  
+🚀 Ingénieur logiciel Java & React / React Native.
+💻 Passionné par la création d’applications robustes, scalables et performantes.
+🧠 Developpeur d'application Intelligente et performentes **Spring AI & Automations.
 ---
-
 ## 🔧 Stack principale
 ![Java](https://img.shields.io/badge/Java-17%2F21-orange?logo=openjdk)
 ![Spring](https://img.shields.io/badge/Spring-Boot%2C%20Data%2C%20Security%2C%20Cloud%2C%20AI-6DB33F?logo=spring)
