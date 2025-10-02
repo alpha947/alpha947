@@ -20,11 +20,6 @@
 ## ⚡ Stats de contributions 
 🔥 Contribution Streak  
 ![GitHub Streak](https://streak-stats.demolab.com?user=alpha947&theme=tokyonight&hide_border=true)  
-📈 Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alpha947&theme=tokyo-night)  
-
----
-
 ## 🏆 Réalisations phares
 ✨ Quelques projets représentatifs :  
 
@@ -38,9 +33,11 @@
   → Développement cross-platform avec **React Native**.  
 
 - 🔹 **[Projet IA – Spring AI + OpenAI](LIEN_VERS_REPO)**  
-  → Intégration de l’IA dans les applications Java.  
+  → Intégration de l’IA dans les applications Java. 
+📈 Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alpha947&theme=tokyo-night)  
 
----
+ 
 
 ---
 
