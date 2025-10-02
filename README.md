@@ -37,15 +37,17 @@
 
 ---
 
-## 📊 Statistiques avancées (mise à jour auto)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&theme=tokyonight&hide_border=true)  
+## ⚡ Animations & Stats dynamiques  
 
-📈 **Graphiques dynamiques** :  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TON-USERNAME&theme=tokyo-night)  
+🐍 Snake (contributions animées)  
+![Snake animation](https://github.com/alpha947/alpha947/blob/output/snake.svg)  
 
-🔥 **Streaks (contributions continues)** :  
-![GitHub Streak](https://streak-stats.demolab.com?user=TON-USERNAME&theme=tokyonight&hide_border=true)  
+📈 Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alpha947&theme=tokyo-night)  
+
+🔥 Contribution Streak  
+![GitHub Streak](https://streak-stats.demolab.com?user=alpha947&theme=tokyonight&hide_border=true)  
+
 
 ---
 
@@ -57,12 +59,12 @@
 
 ## ⚡ Animations GitHub
 🐍 **Snake animation (commits dynamiques)**  
-![Snake animation](https://github.com/TON-USERNAME/TON-USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alpha947/alpha947/blob/output/github-contribution-grid-snake.svg)
 
 🎆 **Badges animés (compteurs dynamiques)**  
-![Profile Views](https://komarev.com/ghpvc/?username=TON-USERNAME&color=blueviolet&style=for-the-badge)  
-![Followers](https://img.shields.io/github/followers/TON-USERNAME?style=for-the-badge&logo=github&color=green)  
-![Stars](https://img.shields.io/github/stars/TON-USERNAME?style=for-the-badge&logo=github&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=alpha947&color=blueviolet&style=for-the-badge)  
+![Followers](https://img.shields.io/github/followers/alpha947?style=for-the-badge&logo=github&color=green)  
+![Stars](https://img.shields.io/github/stars/alpha947?style=for-the-badge&logo=github&color=yellow)
 
 ---
 
