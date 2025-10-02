@@ -18,12 +18,11 @@
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=githubactions)
 
 ## ⚡ Stats de contributions 
-
+🔥 Contribution Streak  
+![GitHub Streak](https://streak-stats.demolab.com?user=alpha947&theme=tokyonight&hide_border=true)  
 📈 Activity Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alpha947&theme=tokyo-night)  
 
-🔥 Contribution Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=alpha947&theme=tokyonight&hide_border=true)  
 ---
 
 ## 🏆 Réalisations phares
