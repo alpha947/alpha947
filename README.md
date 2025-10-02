@@ -32,12 +32,11 @@
 - 🔹 **[Projet C – Application mobile](LIEN_VERS_REPO)**  
   → Développement cross-platform avec **React Native**.  
 
-- 🔹 **[Projet IA – Spring AI + OpenAI](LIEN_VERS_REPO)**  
+- 🔹 **[Projet IA – Spring AI + OpenAI](LIEN_VERS_REPO)**
+  
   → Intégration de l’IA dans les applications Java. 
 📈 Activity Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alpha947&theme=tokyo-night)  
-
- 
 
 ---
 
