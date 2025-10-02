@@ -1,4 +1,4 @@
-# 👋 Salut, je suis **Alpha Amadou DIALLO **  
+# 👋 Salut, je suis **Alpha Amadou DIALLO 
 
 🚀 **Ingénieur logiciel Java & React / React Native**  
 💻 **Passionné par la création d’applications robustes, scalables et performantes.**  
