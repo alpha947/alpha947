@@ -19,6 +19,8 @@
 ## ⚡ Stats de contributions 
 🔥 Contribution Streak  
 ![GitHub Streak](https://streak-stats.demolab.com?user=alpha947&theme=tokyonight&hide_border=true)  
+🐍 Snake (commits animés)  
+![Snake animation](https://github.com/alpha947/alpha947/blob/output/snake.svg) 
 ## 🏆 Réalisations phares
 ✨ Quelques projets représentatifs :  
 
