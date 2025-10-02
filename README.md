@@ -46,9 +46,6 @@
 
 ---
 
-
-
-
 ---
 
 ## 🌍 Portfolio & CV
@@ -61,7 +58,7 @@
 🐍 **Snake animation (commits dynamiques)**  
 ![Snake animation](https://github.com/alpha947/alpha947/blob/output/github-contribution-grid-snake.svg)
 
-🎆 **Le nomre de contribution**  
+🎆 **Petit resume Git**  
 ![Profile Views](https://komarev.com/ghpvc/?username=alpha947&color=blueviolet&style=for-the-badge)  
 ![Followers](https://img.shields.io/github/followers/alpha947?style=for-the-badge&logo=github&color=green)  
 ![Stars](https://img.shields.io/github/stars/alpha947?style=for-the-badge&logo=github&color=yellow)
