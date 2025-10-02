@@ -1,8 +1,8 @@
 # 👋 Salut, je suis **Alpha Amadou DIALLO**  
 
-🚀 **Ingénieur logiciel Java & React avec 5 ans d’expérience**  
-💻 Passionné par la création d’applications robustes, scalables et performantes.  
-🧠 Developpeur d'application Intelligente et performentes **Spring AI & Automations**.  
+🚀 **Ingénieur logiciel Java & React / React Native**  
+💻 **Passionné par la création d’applications robustes, scalables et performantes.**  
+🧠 **Developpeur d'application Intelligente et performentes **Spring AI & Automations**.  
 ---
 
 ## 🔧 Stack principale
@@ -17,6 +17,16 @@
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=githubactions)
 
+## ⚡ Stats de contributions
+
+🐍 Snake (contributions animées)  
+![Snake animation](https://github.com/alpha947/alpha947/blob/output/snake.svg)  
+
+📈 Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alpha947&theme=tokyo-night)  
+
+🔥 Contribution Streak  
+![GitHub Streak](https://streak-stats.demolab.com?user=alpha947&theme=tokyonight&hide_border=true)  
 ---
 
 ## 🏆 Réalisations phares
@@ -36,16 +46,7 @@
 
 ---
 
-## ⚡ Stats de contributions
 
-🐍 Snake (contributions animées)  
-![Snake animation](https://github.com/alpha947/alpha947/blob/output/snake.svg)  
-
-📈 Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alpha947&theme=tokyo-night)  
-
-🔥 Contribution Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=alpha947&theme=tokyonight&hide_border=true)  
 
 
 ---
