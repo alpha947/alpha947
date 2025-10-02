@@ -2,8 +2,7 @@
 
 🚀 **Ingénieur logiciel Java & React avec 5 ans d’expérience**  
 💻 Passionné par la création d’applications robustes, scalables et performantes.  
-🧠 Formation récente en **Spring AI & Intelligence Artificielle**.  
-
+🧠 Developpeur d'application Intelligente et performentes **Spring AI & Automations**.  
 ---
 
 ## 🔧 Stack principale
@@ -37,7 +36,7 @@
 
 ---
 
-## ⚡ Animations & Stats dynamiques  
+## ⚡ Stats de contributions
 
 🐍 Snake (contributions animées)  
 ![Snake animation](https://github.com/alpha947/alpha947/blob/output/snake.svg)  
@@ -52,16 +51,16 @@
 ---
 
 ## 🌍 Portfolio & CV
-🔗 [🌐 Mon site web](https://ton-site-web.com)  
+🔗 [🌐 Mon site web](https://dg.xstore-gn.io)  
 📄 [📑 Mon CV (PDF)](LIEN_VERS_CV)  
 
 ---
 
-## ⚡ Animations GitHub
+## ⚡ Git & Github
 🐍 **Snake animation (commits dynamiques)**  
 ![Snake animation](https://github.com/alpha947/alpha947/blob/output/github-contribution-grid-snake.svg)
 
-🎆 **Badges animés (compteurs dynamiques)**  
+🎆 **Le nomre de contribution**  
 ![Profile Views](https://komarev.com/ghpvc/?username=alpha947&color=blueviolet&style=for-the-badge)  
 ![Followers](https://img.shields.io/github/followers/alpha947?style=for-the-badge&logo=github&color=green)  
 ![Stars](https://img.shields.io/github/stars/alpha947?style=for-the-badge&logo=github&color=yellow)
