@@ -2,7 +2,7 @@
 
 🚀 **Ingénieur logiciel Java & React / ReactNative**  
 💻 Passionné par la création d’applications robustes, scalables et performantes.  
-🧠 Developpeur d'application Inovante et Intelligente en **Spring AI & LLMs**.  
+🧠 Intégration de l’IA dans les applications Java avec **Spring AI & LLMs**.  
 ---
 ## 🔧 Stack principale
 ![Java](https://img.shields.io/badge/Java-17%2F21-orange?logo=openjdk)
@@ -35,7 +35,6 @@
 
 - 🔹 **[Projet IA – Spring AI + OpenAI](LIEN_VERS_REPO)**
   
-  → Intégration de l’IA dans les applications Java. 
 📈 Activity Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alpha947&theme=tokyo-night)  
 
